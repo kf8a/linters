@@ -8,8 +8,8 @@ AllCops:
 Rails:
   Enabled: true
 
-Style/AlignParameters:
-  EnforcedStyle: with_fixed_indentation
+# Style/AlignParameters:
+#   EnforcedStyle: with_fixed_indentation
 
 Style/CaseIndentation:
   IndentWhenRelativeTo: end
