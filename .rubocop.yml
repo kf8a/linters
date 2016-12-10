@@ -79,10 +79,10 @@ Style/FormatString:
   Enabled: false
 
 Style/MultilineMethodCallIndentation:
-  EnforcedStyle: indented
+  EnforcedStyle: aligned
 
 Style/MultilineOperationIndentation:
-  EnforcedStyle: indented
+  EnforcedStyle: aligned 
 
 Style/WordArray:
   Enabled: false
