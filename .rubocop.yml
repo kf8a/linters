@@ -8,9 +8,6 @@ AllCops:
 Rails:
   Enabled: true
 
-# Style/AlignParameters:
-#   EnforcedStyle: with_fixed_indentation
-
 Style/CaseIndentation:
   IndentWhenRelativeTo: end
 
@@ -82,7 +79,7 @@ Style/MultilineMethodCallIndentation:
   EnforcedStyle: aligned
 
 Style/MultilineOperationIndentation:
-  EnforcedStyle: aligned 
+  EnforcedStyle: aligned
 
 Style/WordArray:
   Enabled: false
